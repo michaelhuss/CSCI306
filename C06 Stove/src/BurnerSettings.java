@@ -1,9 +1,9 @@
 
 public enum BurnerSettings {
 	//enum type settings for the burner
-	OFF("OFF"), LOW("LOW"), MEDIUM("MEDIUM"), HIGH("HIGH");
+	OFF("---"), LOW("--+"), MEDIUM("-++"), HIGH("+++");
 	
-	//string for settings
+	//string for string representation of settings
 	private String value;
 	
 	//Constructor to set the setting types
