@@ -21,3 +21,44 @@ Author: michaelhuss <michaelhuss@mymail.mines.edu>
 Date:   Fri Sep 8 14:53:50 2017 -0600
 
     test file
+commit 814d6d589e5592840a668eca39012cdf8d0bcb4b
+Author: michaelhuss <michaelhuss@mymail.mines.edu>
+Date:   Fri Sep 8 15:48:10 2017 -0600
+
+    Added string methods for the burner settings enum type.
+
+commit 179155dc8c1db5aa61256f7244b8aa0b79f0f780
+Author: michaelhuss <michaelhuss@mymail.mines.edu>
+Date:   Fri Sep 8 15:33:04 2017 -0600
+
+    Added temperature enum in Burner and setting enum file
+
+commit d2d39542d79d90750295fc89a79b77425847ae07
+Author: michaelhuss <michaelhuss@mymail.mines.edu>
+Date:   Fri Sep 8 15:19:00 2017 -0600
+
+    Added gitLog.txt file
+
+commit 7bca99b6abb6173cf249d6a9268582a829ef9e43
+Author: michaelhuss <michaelhuss@mymail.mines.edu>
+Date:   Fri Sep 8 15:10:12 2017 -0600
+
+    Added burner class and modified .gitignore
+
+commit c0c3b2f117bac31a5306714bab2ee2d5b31c0e9e
+Author: michaelhuss <michaelhuss@mymail.mines.edu>
+Date:   Fri Sep 8 15:05:24 2017 -0600
+
+    Adding src folder
+
+commit 700478663811180a7b6f6157beddcc65263c0c16
+Author: michaelhuss <michaelhuss@mymail.mines.edu>
+Date:   Fri Sep 8 15:03:56 2017 -0600
+
+    Added .gitignore file
+
+commit 4ca42cce19de88dc45491862613f91b92f18168c
+Author: michaelhuss <michaelhuss@mymail.mines.edu>
+Date:   Fri Sep 8 14:53:50 2017 -0600
+
+    test file
