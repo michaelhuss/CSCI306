@@ -1,5 +1,5 @@
 
-public enum BurnerSettings {
+public enum Setting {
 	//enum type settings for the burner
 	OFF("---"), LOW("--+"), MEDIUM("-++"), HIGH("+++");
 	
@@ -7,13 +7,12 @@ public enum BurnerSettings {
 	private String value;
 	
 	//Constructor to set the setting types
-	BurnerSettings(String aValue){
+	Setting(String aValue){
 		value = aValue;
 	}
 	
 	//toString function to print burner settings.
 	public String toString(){
-		
 		return value;
 	}
 }
