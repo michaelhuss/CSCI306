@@ -119,4 +119,28 @@ public class Burner {
 			}
 		}
 	}
+	
+	public String tempToString(){
+		String s = "";
+		switch(myTemperature.ordinal()){
+		case 0:
+			s = "cooool";
+			break;
+		case 1:
+			s =  "warm";
+			break;
+		case 2:
+			s = "CAREFUL";
+			break;
+		case 3:
+			s =  "VERY HOT! DON'T TOUCH!";
+			break;
+		}
+		return s;
+	}
+	
+	public void display(){
+		
+		System.out.println("[" + mySetting.toString() + "] . . . " + tempToString());
+	}
 }
