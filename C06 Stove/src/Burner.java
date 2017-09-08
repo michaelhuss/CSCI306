@@ -5,5 +5,4 @@ public class Burner {
 	public enum Temperature { HOT, WARM, COLD};
 	
 	
-	
 }
